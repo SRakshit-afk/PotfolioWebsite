@@ -43,7 +43,7 @@ const Hero = () => {
         >
           <div className="flex flex-wrap gap-4 w-full md:w-auto">
             <a 
-              href="/src/assets/SrijitRakshit.pdf"
+              href="/SrijitRakshit.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex-1 md:flex-none flex items-center justify-center gap-3 bg-primary text-foreground brutal-border brutal-shadow px-8 py-5 text-xl font-bold font-mono hover:bg-secondary hover:text-secondary-foreground transition-colors duration-0 whitespace-nowrap"
